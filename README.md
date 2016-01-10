@@ -6,7 +6,7 @@
 </tr>
 <tr>
 <td>Description</td>
-<td>Probably able to digest milk, people without this are more likely to experience lactose intolerance, as per <a href="http://www.snpedia.com/index.php/Gs101">gs117</a>.</td>
+<td>Probably able to digest milk, people without this are more likely to experience lactose intolerance, as per <a href="http://www.snpedia.com/index.php/Gs101">gs101</a>.</td>
 </tr>
 <tr>
 <td>Node Version</td>
