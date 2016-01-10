@@ -1,6 +1,6 @@
 {
   "name": "genoset-101",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "People without this are more likely to experience lactose intolerance.",
   "main": "index.js",
   "scripts": {
