@@ -1,0 +1,32 @@
+{
+  "name": "genoset-101",
+  "version": "1.0.0",
+  "description": "People without this are more likely to experience lactose intolerance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakimelek/genoset-101.git"
+  },
+  "keywords": [
+    "lactose",
+    "dna",
+    "digest",
+    "milk",
+    "food",
+    "genes",
+    "genetics",
+    "type-1",
+    "gs101",
+    "genoset",
+    "genome"
+  ],
+  "author": "Malek Hakim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakimelek/genoset-101/issues"
+  },
+  "homepage": "https://github.com/hakimelek/genoset-101#readme"
+}
